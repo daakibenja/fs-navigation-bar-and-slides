@@ -1,10 +1,8 @@
-# fs-navigation-bar-and-slides
+# mobile
 
 A new Flutter project.
 
 ## Getting Started
-
-Flutter Series Chapter 14 
 
 This project is a starting point for a Flutter application.
 
